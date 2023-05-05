@@ -6,4 +6,6 @@ First page
 
 Second page
 ![About_Movie](https://user-images.githubusercontent.com/78840945/236539767-bdea9a1c-f658-42cf-bfd3-533f97b19b5b.png)
+
+pop option on second page
 ![book_ticket](https://user-images.githubusercontent.com/78840945/236539779-2f7bf8bd-859e-4432-9b8f-eeda65689723.png)
